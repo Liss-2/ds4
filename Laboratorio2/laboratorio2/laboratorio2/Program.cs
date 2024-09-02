@@ -51,7 +51,7 @@ namespace Laboratorio2
 
 ----------------------------------------------------------------------------------------------------*/
 
-
+/*---------------------------------------------------------------------------------------------------
 using System;
 
 
@@ -75,4 +75,23 @@ namespace Laboratorio21
 
     }
 
+}
+
+------------------------------------------------------------------------------------*/
+
+
+internal class Program
+{
+    //imprimiendo en consola variables
+    private static void Main(string[] args)
+    {
+        int valor1 = 28;
+        int valor2 = valor1;
+        valor2 = 30;
+        Console.WriteLine(valor1);
+        Console.WriteLine(valor2);
+        /*
+        Console.WriteLine(valor1);
+        Console.WriteLine(valor2);*/
+    }
 }
