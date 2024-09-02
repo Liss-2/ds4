@@ -1,5 +1,5 @@
 ﻿
-internal class Program
+/*internal class Program
 {
     private static void Main(string[] args)
     {
@@ -13,4 +13,37 @@ internal class Program
             Console.WriteLine(variableLocal);   
         }
     
+}*/
+
+using System;
+
+namespace Laboratorio2
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            Client client = new Client();
+            client.FirstName = "Su Nombre";
+            client.LastName = "Su Apellido";
+            client.Age = 15;
+            client.Id = 1;
+
+            Console.WriteLine(client.GetFullName());
+        }
+
+        public class Client
+        {
+            public int Id { get; set; }
+            public string FirstName { get; set; }
+            public string LastName { get; set; }
+            public ushort Age { get; set; }
+
+            public string GetFullName()
+            {
+                return FirstName + " " + LastName;
+            }
+        }
+    }
 }
