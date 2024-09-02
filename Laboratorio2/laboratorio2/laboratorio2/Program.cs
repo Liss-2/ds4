@@ -15,6 +15,7 @@
     
 }*/
 
+/* --------------------------------------------------------------------------------------------------
 using System;
 
 namespace Laboratorio2
@@ -46,4 +47,12 @@ namespace Laboratorio2
             }
         }
     }
+}
+
+----------------------------------------------------------------------------------------------------*/
+
+public class MyClass
+{
+    //Declarando variable estática
+    public static int valor;
 }
