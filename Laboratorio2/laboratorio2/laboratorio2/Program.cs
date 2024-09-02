@@ -51,8 +51,28 @@ namespace Laboratorio2
 
 ----------------------------------------------------------------------------------------------------*/
 
-public class MyClass
+
+using System;
+
+
+namespace Laboratorio21
 {
-    //Declarando variable estática
-    public static int valor;
+    public class MyClass
+    {
+        //Declarando variable estática
+        public static int valor;
+    }
+
+    public class Program
+    {
+        public static void Main()
+        {
+
+            //asignando valor a variable estática
+            MyClass.valor = 1;
+            Console.WriteLine(MyClass.valor);
+        }
+
+    }
+
 }
