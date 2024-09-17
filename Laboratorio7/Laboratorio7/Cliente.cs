@@ -28,9 +28,16 @@ namespace Laboratorio7
             monto = monto - m;
         }
 
-        public void imprimir()
+        public void RetornarMonto()
+        {
+            return monto;
+        }
+
+        public void Imprimir()
         {
             Console.WriteLine(nombre + "tiene depositado la suma de " + monto);
         }
     }
 }
+
+
