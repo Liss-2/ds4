@@ -28,7 +28,7 @@ namespace Laboratorio7
             monto = monto - m;
         }
 
-        public void RetornarMonto()
+        public int RetornarMonto()
         {
             return monto;
         }
