@@ -31,9 +31,9 @@ namespace Laboratorio7
                     cliente2.RetornarMonto() +
                     cliente3.RetornarMonto();
             Console.WriteLine("El total de dinero en el banco es:" + t);
-            cliente1.imprimir();
-            cliente2.imprimir();    
-            cliente3.imprimir();
+            cliente1.Imprimir();
+            cliente2.Imprimir();    
+            cliente3.Imprimir();
         }
     }
 }
