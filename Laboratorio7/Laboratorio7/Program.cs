@@ -8,10 +8,13 @@
 
 using Laboratorio7;
 
-static void main (String[] args)
+internal class Program
 {
-   Banco banco1 = new Banco();
-    banco1.Operar();
-    banco1.DepositosTotales();
-    Console.ReadKey();
+    static void Main(String[] args)
+    {
+        Banco banco1 = new Banco();
+        banco1.Operar();
+        banco1.DepositosTotales();
+        Console.ReadKey();
+    }
 }
