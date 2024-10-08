@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio4", "Laboratorio4\Laboratorio4.csproj", "{556C5447-A544-493B-BFCD-C8AE3C3828E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio4", "Laboratorio4\Laboratorio4.csproj", "{556C5447-A544-493B-BFCD-C8AE3C3828E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio41", "Laboratorio41\Laboratorio41.csproj", "{530D0F2B-FF81-4BC0-82CF-4A9D0A647B03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio41", "Laboratorio41\Laboratorio41.csproj", "{530D0F2B-FF81-4BC0-82CF-4A9D0A647B03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio42", "Laboratorio42\Laboratorio42.csproj", "{519270AB-5DD2-4D22-912D-17021BF59640}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio42", "Laboratorio42\Laboratorio42.csproj", "{519270AB-5DD2-4D22-912D-17021BF59640}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio43", "Laboratorio43\Laboratorio43.csproj", "{E046B8F2-1CED-4A51-A7C7-C919680CDD11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio43", "Laboratorio43\Laboratorio43.csproj", "{E046B8F2-1CED-4A51-A7C7-C919680CDD11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio44", "Laboratorio44\Laboratorio44.csproj", "{4B662616-DC12-4417-89F6-C8AD0D54380A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio44", "Laboratorio44\Laboratorio44.csproj", "{4B662616-DC12-4417-89F6-C8AD0D54380A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio45", "Laboratorio45\Laboratorio45.csproj", "{1433FC86-0946-4123-AAEF-8EE936C00718}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio45", "Laboratorio45\Laboratorio45.csproj", "{1433FC86-0946-4123-AAEF-8EE936C00718}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio46", "Laboratorio46\Laboratorio46.csproj", "{1F3A8E18-78AF-4698-9550-F6095CB6CEE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio46", "Laboratorio46\Laboratorio46.csproj", "{1F3A8E18-78AF-4698-9550-F6095CB6CEE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio47", "Laboratorio47\Laboratorio47.csproj", "{AFC0316E-6380-44B8-AD76-669217F5660A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{1F3A8E18-78AF-4698-9550-F6095CB6CEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F3A8E18-78AF-4698-9550-F6095CB6CEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F3A8E18-78AF-4698-9550-F6095CB6CEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC0316E-6380-44B8-AD76-669217F5660A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC0316E-6380-44B8-AD76-669217F5660A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC0316E-6380-44B8-AD76-669217F5660A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC0316E-6380-44B8-AD76-669217F5660A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
