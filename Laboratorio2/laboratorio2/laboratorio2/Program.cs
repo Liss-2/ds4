@@ -13,10 +13,10 @@
             Console.WriteLine(variableLocal);   
         }
     
-}*/
+}
 
-/* --------------------------------------------------------------------------------------------------
-using System;
+// --------------------------------------------------------------------------------------------------
+
 
 namespace Laboratorio2
 {
@@ -49,10 +49,8 @@ namespace Laboratorio2
     }
 }
 
-----------------------------------------------------------------------------------------------------*/
+//----------------------------------------------------------------------------------------------------
 
-/*---------------------------------------------------------------------------------------------------
-using System;
 
 
 namespace Laboratorio21
@@ -77,10 +75,10 @@ namespace Laboratorio21
 
 }
 
-------------------------------------------------------------------------------------*/
+//------------------------------------------------------------------------------------
 
-/*
-internal class Program
+
+internal class Program1
 {
     //imprimiendo en consola variables
     private static void Main(string[] args)
@@ -96,9 +94,9 @@ internal class Program
     }
 }
 
-----------------------------------------------------------------------------------------*/
+//----------------------------------------------------------------------------------------
 
-internal class Program
+internal class Program2
 {
     private static void Main(string[] args)
     {
@@ -111,4 +109,43 @@ internal class Program
         Console.WriteLine(valor1);
         Console.WriteLine(valor2);
     }
+}
+
+//*************************************************************************************************************
+*/
+
+namespace Laboratorio22
+{
+    public class MyClass
+    {
+        //Declarando variable estática
+        public string Nombre { get; set; }
+        public int Edad { get; set; }
+
+    }
+
+    public class Program
+    {
+        public static void Main()
+        {
+
+            //Creando nueva instancia
+            MyClass object1 = new MyClass();
+            object1.Nombre = "Fulano";
+            object1.Edad = 28;
+
+            //Asignando una variable a otra
+            MyClass object2 = object1;
+
+            //Este cambio en la propiedad afecta tanto a object1 como object2
+            object2.Nombre = "Jose";
+
+            //Al imprimir en consola vemos que ambas referencias imprimen el mismo valor 'Jose'
+            Console.WriteLine(object2);
+            Console.WriteLine(object1);
+
+        }
+
+    }
+
 }
