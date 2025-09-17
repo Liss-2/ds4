@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Laboratorio2
 {
-    internal class Class1
+    internal class Cliente
+
     {
         static void Main(string[] args)
         {
@@ -33,7 +34,7 @@ namespace Laboratorio2
         public string GetFullName()
         {
             //utilizando variables de instancia dentro de metodos de la clase
-            return FirstName + "" + LastName;
+            return FirstName + " " + LastName;
         }
     }
 }
