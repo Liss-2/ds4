@@ -10,6 +10,14 @@ namespace Laboratorio2
     {
         static void Main(string[] args)
         {
+            Client client = new Client();
+            //ejemplo utilizando las variables de instancia de Clase.
+            client.FirstName = "Liseth";
+            client.LastName = "Montezuma";
+            client.Age = 15;
+            client.Id = 1;
+
+            Console.WriteLine(client.GetFullName());    
 
         }
     }
@@ -20,7 +28,7 @@ namespace Laboratorio2
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public string Age { get; set; }
+        public ushort Age { get; set; }
 
         public string GetFullName()
         {
