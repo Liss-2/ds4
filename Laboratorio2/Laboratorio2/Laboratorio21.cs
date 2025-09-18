@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/*
 namespace Laboratorio2
 {
     internal class Laboratorio21
@@ -23,3 +23,4 @@ namespace Laboratorio2
         public static int Valor;
     }
 }
+*/
