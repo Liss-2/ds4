@@ -3,27 +3,25 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*
+
 namespace Laboratorio4
 {
-    internal class Laboratorio41
+    internal class Laboratorio42
     {
         private static void Main(string[] args)
         {
-            int n, x;
+            int fac = 1, n;
             string linea;
-            Console.Write("Ingrese el valor de n: ");
+            Console.Write("Ingrese un numero entero: ");
             linea = Console.ReadLine();
             n = int.Parse(linea);
-            x = 1;
-            while (x <= n)
+            for (int i = 1; i <= n; i++)
             {
-                Console.Write(x);
-                Console.Write(" , ");
-                x = x + 1;
+                fac = fac * i;
             }
-            Console.ReadKey();
 
+            Console.Write("La factorial es: " + fac);
+            Console.ReadKey();
         }
     }
-}*/
+}
