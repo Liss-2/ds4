@@ -22,7 +22,14 @@ namespace Laboratorio3
             {
                 return Math.PI * Math.Pow(radio, 2); // Área = π * r^2
             }
+
+            // Método para calcular el perímetro de un rectángulo
+            public static double CalcularPerimetroRectangulo(double lado1, double lado2)
+            {
+                return 2 * (lado1 + lado2); // Perímetro = 2 * (lado1 + lado2)
+            }
         }
+    }
 /*
         class Program
         {
@@ -38,6 +45,6 @@ namespace Laboratorio3
                 int resultado = CalculosMatematicos.Calcular(numero1, numero2);
                 Console.WriteLine("El resultado de la operación (a+b)*(a-b) es: " + resultado);
             }
-        }*/
-    }
+       
+    } }*/
 }

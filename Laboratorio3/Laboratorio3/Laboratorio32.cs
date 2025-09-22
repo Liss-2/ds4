@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/*
 namespace Laboratorio3
 {
     public class Laboratorio32
@@ -18,4 +18,4 @@ namespace Laboratorio3
             Console.WriteLine("El área del círculo es: " + areaCirculo);
         }
     }
-}
+}*/
