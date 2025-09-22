@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static Laboratorio3.Laboratorio31;
 
 namespace Laboratorio3
 {
     public class Laboratorio31
     {
 
-        public class CalculosMatematicos
+        internal class CalculosMatematicos
         {
             // Método para calcular la operación (a+b)*(a-b)
             public static int Calcular(int a, int b)
@@ -30,21 +31,20 @@ namespace Laboratorio3
             }
         }
     }
-/*
-        class Program
+
+    class Program
+    {
+        static void Main(string[] args)
         {
-            static void Main(string[] args)
-            {
-                // --- Ejercicio 1 ---
-                Console.Write("Ingrese el valor para 'a': ");
-                int numero1 = int.Parse(Console.ReadLine());
+            // --- Ejercicio 1 ---
+            Console.Write("Ingrese el valor para 'a': ");
+            int numero1 = int.Parse(Console.ReadLine());
 
-                Console.Write("Ingrese el valor para 'b': ");
-                int numero2 = int.Parse(Console.ReadLine());
+            Console.Write("Ingrese el valor para 'b': ");
+            int numero2 = int.Parse(Console.ReadLine());
 
-                int resultado = CalculosMatematicos.Calcular(numero1, numero2);
-                Console.WriteLine("El resultado de la operación (a+b)*(a-b) es: " + resultado);
+            int resultado = CalculosMatematicos.Calcular(numero1, numero2);
+            Console.WriteLine("El resultado de la operación (a+b)*(a-b) es: " + resultado);
             }
-       
-    } }*/
+        } 
 }
