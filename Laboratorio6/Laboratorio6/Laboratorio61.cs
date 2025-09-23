@@ -1,6 +1,6 @@
 ﻿/*internal class Laboratorio61
 {
-    static void main (String[] args)
+    static void Main (String[] args)
     {
         int num;
         Console.WriteLine("Digite el numero deseado");

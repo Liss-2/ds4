@@ -8,7 +8,7 @@ namespace Laboratorio6
 {
     internal class Laboratorio62
     {
-        static void main(String[] args)
+        static void Main(String[] args)
         {
             int num;
             Console.WriteLine("Digite el numero deseado");
