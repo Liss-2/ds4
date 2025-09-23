@@ -1,4 +1,4 @@
-﻿internal class Laboratorio61
+﻿/*internal class Laboratorio61
 {
     static void main (String[] args)
     {
@@ -14,4 +14,4 @@
         }
         Console.WriteLine(num);
     }
-}
+}*/
