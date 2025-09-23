@@ -1,4 +1,4 @@
-﻿internal class Program
+﻿/*internal class Program
 {
     private int[] sueldos; //Declaramos un vector
 
@@ -30,3 +30,4 @@
         pv.Imprimir();
     }
 }
+*/
