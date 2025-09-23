@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/*
 namespace Laboratorio5
 {
     internal class Laboratorio55
@@ -30,3 +30,4 @@ namespace Laboratorio5
         }
     }
 }
+*/
