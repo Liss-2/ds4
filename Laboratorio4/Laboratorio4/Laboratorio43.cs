@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*
+
 namespace Laboratorio4
 {
     internal class Laboratorio43
@@ -40,4 +40,4 @@ namespace Laboratorio4
             Console.ReadLine();
         }
     }
-}*/
+}
