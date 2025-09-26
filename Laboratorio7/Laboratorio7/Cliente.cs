@@ -33,7 +33,7 @@ namespace Laboratorio7
 
         public void Imprimir()
         {
-            Console.WriteLine(nombre + "tiene depositado la suma de " + monto);
+            Console.WriteLine(nombre + " tiene depositado la suma de " + monto);
         }
     }
 }

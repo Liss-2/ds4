@@ -1,7 +1,12 @@
-﻿internal class Program
+﻿using Laboratorio7;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Banco banco1 = new Banco();
+        banco1.Operar();
+        banco1.DepositosTotal();
+        Console.ReadKey();
     }
 }
