@@ -1,5 +1,5 @@
 ﻿using Laboratorio7;
-
+/*
 internal class Program
 {
     private static void Main(string[] args)
@@ -9,4 +9,4 @@ internal class Program
         banco1.DepositosTotal();
         Console.ReadKey();
     }
-}
+}*/
