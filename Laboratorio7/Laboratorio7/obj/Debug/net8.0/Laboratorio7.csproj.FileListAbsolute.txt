@@ -21,3 +21,10 @@ C:\Users\Admin\source\repos\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\Labor
 C:\Users\Admin\source\repos\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\Laboratorio7.dll
 C:\Users\Admin\source\repos\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\refint\Laboratorio7.dll
 C:\Users\Admin\source\repos\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\Laboratorio7.pdb
+C:\Users\Admin\source\repos\ds4\Laboratorio7\Laboratorio7\bin\Debug\net8.0\Laboratorio7.exe
+C:\Users\Admin\source\repos\ds4\Laboratorio7\Laboratorio7\bin\Debug\net8.0\Laboratorio7.deps.json
+C:\Users\Admin\source\repos\ds4\Laboratorio7\Laboratorio7\bin\Debug\net8.0\Laboratorio7.runtimeconfig.json
+C:\Users\Admin\source\repos\ds4\Laboratorio7\Laboratorio7\bin\Debug\net8.0\Laboratorio7.dll
+C:\Users\Admin\source\repos\ds4\Laboratorio7\Laboratorio7\bin\Debug\net8.0\Laboratorio7.pdb
+C:\Users\Admin\source\repos\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\Laboratorio7.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ds4\Laboratorio7\Laboratorio7\obj\Debug\net8.0\ref\Laboratorio7.dll

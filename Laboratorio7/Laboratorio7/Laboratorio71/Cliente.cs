@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*
+
 namespace Laboratorio7
 {
     internal class Cliente
@@ -36,4 +36,4 @@ namespace Laboratorio7
             Console.WriteLine(nombre + " tiene depositado la suma de " + monto);
         }
     }
-}*/
+}
