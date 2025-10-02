@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/*
 namespace Laboratorio8.Laboratorio84
 {
     internal class Empleado
@@ -16,4 +16,4 @@ namespace Laboratorio8.Laboratorio84
             set { nombre = value; }
         }
     }
-}
+}*/
