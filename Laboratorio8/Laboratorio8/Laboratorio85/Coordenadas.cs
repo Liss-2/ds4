@@ -5,15 +5,24 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Laboratorio8.Laboratorio85
-{
-    public partial class Coordenadas
-    {
-        private int x;
-        private int y;
-        public Coordenadas(int x, int y)
+{ 
+        public partial class Coordenadas
         {
-            this.x = x;
-            this.y = y;
+            private int x;
+            private int y;
+            public Coordenadas(int x, int y)
+            {
+                this.x = x;
+                this.y = y;
+            }
+        }
+
+        public partial class Coordenadas
+        {
+            public void VerCoordenadas()
+            {
+                Console.WriteLine($"Coordenadas: ({0}, {1})", x, y);
+
+            }
         }
     }
-}
