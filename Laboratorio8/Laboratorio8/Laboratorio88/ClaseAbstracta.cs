@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/*
 namespace Laboratorio8.Laboratorio88
 {
-    abstract class ClaseAbstracta
+    internal class ClaseAbstracta
     {
         //Se fuerza la herencia de la clase para definir estos métodos
         abstract protected string tomarValor();
@@ -17,4 +17,4 @@ namespace Laboratorio8.Laboratorio88
             Console.WriteLine("Valor: " + tomarValor());
         }
     }
-}
+}*/
