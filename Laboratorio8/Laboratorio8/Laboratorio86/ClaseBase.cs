@@ -13,7 +13,7 @@ namespace Laboratorio8.Laboratorio86
             
         }
 
-        public sealed void masTest()
+        public sealed class masTest()
         {
             
         }   
