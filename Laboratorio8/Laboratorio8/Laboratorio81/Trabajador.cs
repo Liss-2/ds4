@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*
+
 namespace Laboratorio8.Laboratorio81
 {
     internal class Trabajador : Persona
@@ -16,4 +16,4 @@ namespace Laboratorio8.Laboratorio81
             Sueldo = sueldo;
         }
     }
-}*/
+}

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*
+
 namespace Laboratorio8.Laboratorio88
 {
     internal class Program
@@ -19,4 +19,4 @@ namespace Laboratorio8.Laboratorio88
             Console.WriteLine(concreta2.prefixValor("ES_"));
         }
     }
-}*/
+}
