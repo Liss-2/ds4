@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*
+
 namespace Laboratorio8.Laboratorio83
 {
     internal class Program
@@ -29,4 +29,4 @@ namespace Laboratorio8.Laboratorio83
             return x + y;
         }
     }
-}*/
+}
