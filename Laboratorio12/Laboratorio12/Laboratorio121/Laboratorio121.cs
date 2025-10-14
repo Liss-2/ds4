@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/*
 namespace Laboratorio12
 {
     public partial class Laboratorio121 : Form
@@ -55,4 +55,4 @@ namespace Laboratorio12
             Limpiar();
         }
     }
-}
+}*/
