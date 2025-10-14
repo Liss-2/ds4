@@ -1,4 +1,4 @@
-﻿namespace Laboratorio12
+﻿/*namespace Laboratorio12
 {
     partial class Laboratorio121
     {
@@ -189,5 +189,6 @@
         private System.Windows.Forms.Label lblRes;
         private System.Windows.Forms.Label label1;
     }
-}
+}*/
 
+   
