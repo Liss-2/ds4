@@ -1,6 +1,6 @@
 ﻿namespace Laboratorio12.Laboratorio122
 {
-    partial class Laboratorio122
+    public partial class Laboratorio122 
     {
         /// <summary>
         /// Required designer variable.
