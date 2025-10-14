@@ -16,5 +16,10 @@ namespace Laboratorio11
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            lblHelloWorld.Text = "Hello World!";
+        }
     }
 }
