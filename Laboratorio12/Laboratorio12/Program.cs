@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/*
 namespace Laboratorio12
 {
     internal static class Program
@@ -19,4 +19,4 @@ namespace Laboratorio12
             Application.Run(new Laboratorio121());
         }
     }
-}
+}*/
