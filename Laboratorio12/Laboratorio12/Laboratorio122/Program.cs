@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-/*
+
 namespace Laboratorio12.Laboratorio122
 {
     internal class Program
@@ -22,4 +22,3 @@ namespace Laboratorio12.Laboratorio122
         }
     }
 }
-*/

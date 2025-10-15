@@ -1,4 +1,4 @@
-﻿/*namespace Laboratorio12.Laboratorio122
+﻿namespace Laboratorio12.Laboratorio122
 {
     public partial class Laboratorio122 
     {
@@ -190,4 +190,4 @@
         private System.Windows.Forms.Label lblPromedio;
         private System.Windows.Forms.TextBox txtPromedio;
     }
-}*/
+}

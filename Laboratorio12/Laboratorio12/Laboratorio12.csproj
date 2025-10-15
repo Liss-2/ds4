@@ -46,11 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Laboratorio121\Laboratorio121.cs" />
+    <Compile Include="Laboratorio121\Laboratorio121.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Laboratorio121\Laboratorio121.Designer.cs">
       <DependentUpon>Laboratorio121.cs</DependentUpon>
     </Compile>
-    <Compile Include="Laboratorio122\Laboratorio122.cs" />
+    <Compile Include="Laboratorio122\Laboratorio122.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Laboratorio122\Laboratorio122.Designer.cs">
       <DependentUpon>Laboratorio122.cs</DependentUpon>
     </Compile>
