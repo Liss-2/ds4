@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-/*
-namespace Laboratorio12.Laboratorio122
+
+namespace Laboratorio12.Laboratorio123
 {
     internal class Program
     {
@@ -17,9 +17,8 @@ namespace Laboratorio12.Laboratorio122
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Laboratorio122());
+            Application.Run(new Laboratorio123());
 
         }
     }
 }
-*/

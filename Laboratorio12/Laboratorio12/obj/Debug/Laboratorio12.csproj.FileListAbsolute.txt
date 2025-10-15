@@ -19,3 +19,4 @@ C:\Users\Admin\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratori
 C:\Users\Admin\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.pdb
 C:\Users\Hp\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.Laboratorio122.Laboratorio122.resources
 C:\Users\Hp\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.Laboratorio121.Laboratorio121.resources
+C:\Users\Hp\source\repos\ds4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.Laboratorio123.Laboratorio123.resources

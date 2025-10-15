@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -65,5 +65,23 @@ namespace Laboratorio12.Laboratorio122
             txtPromedio.Clear();
         }
 
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // Laboratorio122
+            // 
+            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Name = "Laboratorio122";
+            this.Load += new System.EventHandler(this.Laboratorio122_Load_1);
+            this.ResumeLayout(false);
+
+        }
+
+        private void Laboratorio122_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
+*/
