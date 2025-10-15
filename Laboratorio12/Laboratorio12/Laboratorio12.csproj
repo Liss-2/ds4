@@ -56,7 +56,8 @@
     <Compile Include="Laboratorio122\Laboratorio122.Designer.cs">
       <DependentUpon>Laboratorio122.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
+    <Compile Include="Laboratorio121\Program.cs" />
+    <Compile Include="Laboratorio122\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Laboratorio121\CalculoDistancia.cs" />
     <EmbeddedResource Include="Laboratorio121\Laboratorio121.resx">

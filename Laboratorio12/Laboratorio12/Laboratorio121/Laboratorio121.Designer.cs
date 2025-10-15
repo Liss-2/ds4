@@ -189,6 +189,6 @@
         private System.Windows.Forms.Label lblRes;
         private System.Windows.Forms.Label label1;
     }
-}*/
+}
 
-   
+   */

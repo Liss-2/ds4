@@ -1,9 +1,9 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*
+
 namespace Laboratorio12
 {
     internal class CalculoDistancia
@@ -13,4 +13,5 @@ namespace Laboratorio12
             return velocidad * tiempo;
         }
     }
-}*/
+}
+*/
